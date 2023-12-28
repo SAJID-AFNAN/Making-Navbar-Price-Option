@@ -8,7 +8,7 @@ function App() {
     <>
       <NavBar></NavBar>
       {/* <DaisyNav></DaisyNav> */}
-      <h1 className='text-6xl bg-slate-600'>Vite + React</h1>
+      {/* <h1 className='text-6xl bg-slate-600'>Vite + React</h1> */}
       <PriceOptions></PriceOptions>
     </>
   )
